@@ -1,7 +1,7 @@
 {
   "name": "weatherproject",
   "version": "1.0.0",
-  "description": "here we going to take api from wheather forcast",
+  "description": "here we going to take api for wheather forcast",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
